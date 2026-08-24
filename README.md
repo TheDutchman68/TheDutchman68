@@ -1,5 +1,9 @@
 ### Hi, I'm Natanael 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-dobie-776059249)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-react-nu-taupe.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adresa-ta@email.com)
+
 I build frontend interfaces with React and TypeScript — the kind that load fast, don't break on mobile, and don't make users think twice about how to use them.
 
 I'm currently looking for **remote roles** and **freelance projects**, so if you need someone to turn a design into a working product (or clean up one that's already half-built), I'm around.
@@ -15,6 +19,8 @@ I'm currently looking for **remote roles** and **freelance projects**, so if you
 - Comfortable enough with Node/Express/MongoDB to work across the stack when a project needs it
 
 **Stack:** React · TypeScript · JavaScript (ES6+) · React Router · Vite · CSS3 (Grid/Flexbox) · Node.js · Express · MongoDB · Git
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,mongodb,git,vite)](https://skillicons.dev)
 
 ---
 
