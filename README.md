@@ -21,7 +21,7 @@ I'm currently looking for **remote roles** and **freelance projects**, so if you
 **Stack:** React · TypeScript · JavaScript (ES6+) · React Router · Vite · CSS3 (Grid/Flexbox) · Node.js · Express · MongoDB · Git
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,mongodb,git,vite)](https://skillicons.dev)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDutchman68&layout=compact&theme=tokyonight)
 ---
 
 ### A couple of projects worth looking at
