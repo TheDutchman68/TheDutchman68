@@ -50,4 +50,3 @@ Open to remote positions and freelance work. Fastest way to reach me:
 - 🌐 [Portfolio](https://portfolio-react-nu-taupe.vercel.app)
 
 If you've got a project in mind, just message me — happy to talk through it before anything's official.
-![snake gif](https://raw.githubusercontent.com/TheDutchman68/TheDutchman68/output/github-snake.svg)
